@@ -1,6 +1,6 @@
 Making a web app where two players can battle eachother using various different attacks. Will look somewhat akin to a Pokemon-style battle
 
-#User stories:
+# User stories:
 >As two Players,
 >So we can play a personalised game of Battle,
 >We want to Start a fight by entering our Names and >seeing them
