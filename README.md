@@ -1,0 +1,1 @@
+Making a web app where two players can battle eachother using various different attacks. Will look somewhat akin to a Pokemon-style battle
